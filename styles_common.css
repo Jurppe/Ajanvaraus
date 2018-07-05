@@ -1,0 +1,15 @@
+table {
+    font-family: Tahoma, Geneva, sans-serif;
+    border: 1px solid #1C6EA4;
+    background-color: #FFFFFF;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+table td, table th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 3px;
+}
+table body td {
+    font-size: 13px;
+}
