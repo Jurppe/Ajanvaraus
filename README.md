@@ -5,9 +5,9 @@ Simple Calendar UI, with customer accounts and employee accounts. Customer can s
 
 <b>Program lacks major part of error checking, and is therefore completely unfinished.</b>
 
-For testing:
+For testing:<br>
 http://www.sis.uta.fi/~mj422392/ajanvaraus/index.php
 
-Use login
-Account: jaakko123
-Password: salasana
+Use login credentials<br>
+Account: jaakko123 <br>
+Password: salasana <br>
